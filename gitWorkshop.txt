@@ -2,3 +2,4 @@ git and version control
 
 The changes just disappear
 
+The third changes to this file
